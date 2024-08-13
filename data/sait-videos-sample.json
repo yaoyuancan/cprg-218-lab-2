@@ -1,0 +1,393 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:14:51Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Careers in Heavy Duty Equipment and Automotive Business Management Information Session",
+        "description": "Do you dream of working in the automotive, auto body, or transportation industries? Are you creative when it comes to solving problems and looking for a hands-on career in a challenging industry? \n\nDuring information session, you’ll discover how our programs align with industry needs, giving you the job-ready skills employers are looking for. The Clayton Carroll Automotive Centre’s facilities and programs are designed and operated to meet the industry and SAIT standards, emphasizing exceptional classroom education and hands-on training. \n\nYou’ll learn more about the following programs: \n\n1. Transport and Heavy Equipment Technology \n2. Pre-employment Auto Body \n3. Automotive Management",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dx6-VAJKm9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dx6-VAJKm9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dx6-VAJKm9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dx6-VAJKm9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dx6-VAJKm9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "Dx6-VAJKm9g" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:18:29Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Bachelor of Business Administration Information Session",
+        "description": "Are you driven by data? An innovative problem solver? Are you passionate about technology? This is the information session for you. Join us in-person to learn about the industry-recognized Bachelor of Business Administration Degree program. \n\nYou’ll hear why our students stand out in the job market with a wealth of business knowledge and skills – getting a more in-depth level of relevant business coursework than graduates from other business degrees. \n\nThis degree program helps you build core business skills by starting with foundational courses in your first year. In year two, you’ll choose from six majors: Accounting, Financial Services, Human Resource Management, Management, Marketing or Supply Chain Management. You’ll also apply your knowledge and skills to real-world business situations through Integrated Work Experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJoejCL7zAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJoejCL7zAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJoejCL7zAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UJoejCL7zAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UJoejCL7zAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "UJoejCL7zAA" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:20:22Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Careers in Digital Technology Information Session",
+        "description": "Are you looking to boost your career in IT, Software Development or Cybersecurity? During our one-hour information session, you'll hear from our experienced program facilitators and career advisors as they discuss program details, learning outcomes and job opportunities. \n\nOur Digital Transformation programs are designed to help you build skills in business analytics, software development, project and infrastructure management and more: \n- Software Development Accelerator \n- CyberSecurity+ \n- IT Business Analysis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZ1TYNE4zOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZ1TYNE4zOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZ1TYNE4zOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VZ1TYNE4zOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VZ1TYNE4zOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "VZ1TYNE4zOU" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:30:33Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Careers in Engineering Technology and Inspection Information Session",
+        "description": "Are you analytical, organized and like to find solutions, but also have an inventive streak that allows you to create solutions in the face of a challenge? \n \nDo you dream of a career in this diverse field that pulls together a passion for innovative problem-solving with a technical mind? \n \nDuring this information session, you’ll discover how our programs in Engineering Technology and Inspection align with industry needs, giving you the job-ready skills employers are looking for. \n \nYou’ll hear from program experts as you learn more about the following programs: \n \n1. Mechanical Engineering Technology \n2. Welding Engineering Technology \n3. Non-Destructive Testing Foundations",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5it7V4QZwzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5it7V4QZwzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5it7V4QZwzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5it7V4QZwzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5it7V4QZwzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "5it7V4QZwzI" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:32:21Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Careers in Cyber Security Information Session",
+        "description": "Cyber security talent is in high demand — learn how to launch your career in this growing field. \n\nDiscover how our diploma and post-diploma certificate programs can help you launch your journey in the industry: \n\n- Information Systems Security \n- Cyber Security for Control Systems \n- Cyber Security Analyst \n- Information Security Analyst \n\nWhether you want to investigate information security threats or help major industries secure their systems, find out how SAIT can take you there.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nc6S4LOF1pI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nc6S4LOF1pI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nc6S4LOF1pI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nc6S4LOF1pI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nc6S4LOF1pI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "nc6S4LOF1pI" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:33:54Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Early Childhood Education Diploma and Certification Information Session",
+        "description": "Are you looking to become an ECE Professional? Are you passionate about providing care and early learning for young children? Explore the hands-on and dynamic career of Early Childhood Education through our Diploma or Certificate program at our virtual information session. \n\nThrough the ECE Diploma or Certificate you’ll develop a holistic understanding of early childhood education and care for children from newborn to age 12. You will learn through a blend of classroom instruction, project-based courses and hands-on experiences while working with children, families and ECE professionals in community settings. You will develop a deep understanding of supporting child development and effective strategies and best practices. You’ll learn about emergent curriculum when planning and designing responsive relationship-based programs and learning environments. \n\nSound interesting? Listen to our information session and learn about the program, admission requirements and what career opportunities are waiting for you. You’ll also get inside details about our on-campus and blended learning deliveries.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sAEA6Qeusx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sAEA6Qeusx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAEA6Qeusx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sAEA6Qeusx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sAEA6Qeusx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "sAEA6Qeusx8" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:36:29Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "School of Health and Public Safety Entrance Testing Process for Admission Information Session",
+        "description": "Are you interested in programs in the School of Health and Public Safety, but the entrance testing process is leaving you with questions? Do not worry, during this Information Session, you will get a chance to see every step of the application process and can connect with our application experts who will help answer your questions. \n \nHere are the programs in the School of Health and Public Safety which require entrance testing: \n \nDiagnostic Medical Sonography \nMedical Laboratory Assistant \nMedical Laboratory Technology \nMedical Radiologic Technology \nNuclear Medicine \nRespiratory Therapy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QyV0wWZgbdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QyV0wWZgbdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QyV0wWZgbdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QyV0wWZgbdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QyV0wWZgbdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "QyV0wWZgbdA" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:37:40Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Ophthalmic and Optometric Assisting Certificate Information Session",
+        "description": "Are you detail-orientated and ready to make a difference in the lives of others? In this information session, you'll learn about how our vision care sciences programs are diving into eye health with the scientific principles imperative to ensuring optimal eye care. \n \nDuring this session, you'll hear from program experts on the Opthalmic and Optometric Assisting program. Where you will learn how our programs cover ocular pathology, refracting and pharmacology and so much more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c4BFNWY0Vo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c4BFNWY0Vo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c4BFNWY0Vo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c4BFNWY0Vo8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c4BFNWY0Vo8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "c4BFNWY0Vo8" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "id": "UExKT19ObGhyMG1wMU16VkxJTEdfa3Zfd09CSFBwUFMxeC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-03-12T22:38:54Z",
+        "channelId": "UCVAqa3U8cTowb92y4NgLQVg",
+        "title": "Money Matters: Student Awards and Financing Information Session",
+        "description": "Are you looking for ways to help with pay tuition and other expenses that come with attending SAIT? Through the generous support of our donors, SAIT is proud to offer over $5 million in awards to students. Awards are available to all qualifying SAIT students in recognition of academic success, financial need, community involvement and other areas of success and support.  \n  \nDuring this session, you’ll hear from our expert staff on everything there is to know about student awards that are available, along with financing options.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HIlFHbkiU1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HIlFHbkiU1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIlFHbkiU1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HIlFHbkiU1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HIlFHbkiU1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAIT",
+        "playlistId": "PLJO_Nlhr0mp1MzVLILG_kv_wOBHPpPS1x",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "HIlFHbkiU1I" },
+        "videoOwnerChannelTitle": "SAIT",
+        "videoOwnerChannelId": "UCVAqa3U8cTowb92y4NgLQVg"
+      }
+    }
+  ],
+  "pageInfo": { "totalResults": 9, "resultsPerPage": 50 }
+}

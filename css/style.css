@@ -124,11 +124,68 @@ a.active {
   line-height: 1.5;
 }
 
+/* sait videos */
+.video-list {
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: #eee;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.video-list > h2 {
+  color: black;
+  text-align: center;
+}
+
+.video-content {
+  margin: 0 auto;
+  width: 1024px;
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+
+.video-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-item h3 {
+  height: 50px;
+}
+
+.video-item a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #ff0000;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+.video-item img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 /* student content */
 
 .student-list {
   margin: 0 auto;
-  /* width: 1024px; */
   margin-top: 20px;
   background-color: #eee;
   padding-top: 20px;
@@ -236,7 +293,7 @@ h1 {
   content: "-";
   font-size: 30px;
 }
-.video-content {
+.video-content1 {
   background: #eee;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -340,6 +397,7 @@ footer {
     margin-top: 0px;
     margin-left: 0px;
   }
+  
   .student-content {
     width: 100%;
     flex-direction: column;
@@ -350,7 +408,7 @@ footer {
     padding: 15px;
   }
 
-  .video-content iframe {
+  .video-content1 iframe {
     width: 100%;
   }
   .contact {
@@ -364,5 +422,11 @@ footer {
   }
   .footer-right {
     margin-right: 10px;
+  }
+
+  .video-content {
+    width: 100%;
+    flex-direction: column;
+    padding: 10px;
   }
 }
